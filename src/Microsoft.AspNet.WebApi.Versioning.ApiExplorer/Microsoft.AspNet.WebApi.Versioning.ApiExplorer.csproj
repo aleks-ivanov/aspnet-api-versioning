@@ -1,6 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
  <PropertyGroup>
+  <LangVersion>9.0</LangVersion>
   <VersionPrefix>4.1.1</VersionPrefix>
   <AssemblyVersion>4.1.0.0</AssemblyVersion>
   <TargetFramework>net45</TargetFramework>
